@@ -1,11 +1,11 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "MyShop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "store_id": 1092,
+  "name": "FITPOP",
+  "domain": "fitpop.netlify.app",
+  "short_name": "FITPOP",
+  "description": "FITPOP",
+  "primary_color": "#e21a4b",
+  "secondary_color": "#000000",
   "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_"
