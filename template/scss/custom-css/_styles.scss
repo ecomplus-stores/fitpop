@@ -1,27 +1,28 @@
 // Add your custom CSS here.
-.banner-slider {
-    max-width: 100%;
-}
-
-.glide__bullets {
-   display: none;
-}
 
 .top-bar {
-    background-color: black;
+  background-color: var(--secondary);
 }
 
-.top-bar__page-links {
-    float: right;
-    position: relative;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
-    color: #ee9ab0;
-    text-transform: none;
-    font-size: 11px;
-    }
+.top-bar__nav {
+  font-size: var(--font-size-sm);
+  color: #ee9ab0;
+}
 
-.header{
-    background-color: black;
+.header {
+  background-color: var(--secondary);
+  color: var(--secondary-yiq);
+}
+
+.header__toggler-icon,
+.header__buttons .btn {
+  color: var(--secondary-yiq);
+}
+
+.header__search-input {
+  background: var(--primary);
+}
+
+.header__search-btn {
+  color: var(--primary-yiq);
 }
