@@ -1,18 +1,18 @@
 {
   "shipping": {
-    "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "show": false,
+    "text": ""
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Até 10x Formas de pagamento"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
