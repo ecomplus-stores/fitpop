@@ -1,17 +1,24 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "link": "contato@fitpop.com.br "
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Atendimento",
+        "link": "https://www.fitpop.com.br/contato"
+      },
+      {
+        "title": "Checkout",
+        "link": "https://www.fitpop.com.br/carrinho"
+      },
+      {
+        "title": "Meus Favoritos",
+        "link": "https://www.fitpop.com.br/favoritos"
       }
     ],
     "phone_wpp": true,
