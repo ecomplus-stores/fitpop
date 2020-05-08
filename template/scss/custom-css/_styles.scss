@@ -1,1 +1,27 @@
 // Add your custom CSS here.
+.banner-slider {
+    max-width: 100%;
+}
+
+.glide__bullets {
+   display: none;
+}
+
+.top-bar {
+    background-color: black;
+}
+
+.top-bar__page-links {
+    float: right;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: #ee9ab0;
+    text-transform: none;
+    font-size: 11px;
+    }
+
+.header{
+    background-color: black;
+}
