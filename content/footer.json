@@ -10,8 +10,12 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "Categories",
-    "list": []
+    "title": "",
+    "list": [
+      {
+        "url": "https://www.facebook.com/fitpopoficial/"
+      }
+    ]
   },
   "contacts": {
     "title": "Contato",
