@@ -1,5 +1,5 @@
 {
-  "css": ".footer {\n  background: rgba(var(--primary-rgb, .15)) !important;\n}",
+  "css": "",
   "html_head": "",
   "html_body": ""
 }
