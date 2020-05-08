@@ -3,11 +3,11 @@
   "currency_symbol": "R$",
   "primary_color": "#e21a4b",
   "theme": {
-    "bootswatch": "cerulean"
+    "bootswatch": "cosmo"
   },
-  "bg_color": "#010000",
+  "bg_color": "#faf4f4",
   "logo": "/img/uploads/logo.png",
-  "name": "FITPOP",
+  "name": "FITPOP - LOJA DE MODA",
   "short_name": "FITPOP",
   "lang": "pt_br",
   "currency": "BRL",
@@ -17,6 +17,6 @@
   "secondary_color": "#000000",
   "icon": "/img/uploads/minilogo.png",
   "store_id": 1092,
-  "description": "FITPOP",
+  "description": "FITNESS",
   "large_icon": "/img/uploads/minilogo.png"
 }
