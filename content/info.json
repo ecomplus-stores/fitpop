@@ -5,7 +5,8 @@
   },
   "installments": {
     "show": true,
-    "text": "Até 10x Formas de pagamento"
+    "text": "Até 10x",
+    "link": "https://www.fitpop.com.br/pagina/pagamento"
   },
   "exchange": {
     "show": false,
