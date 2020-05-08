@@ -24,7 +24,12 @@
     "email": true,
     "address": true
   },
-  "stamps": [],
+  "stamps": [
+    {
+      "src": "/img/uploads/ssl-safe.png",
+      "alt": "Conexão HTTPS segura"
+    }
+  ],
   "payment_methods": {
     "bb": true,
     "visa": true,
