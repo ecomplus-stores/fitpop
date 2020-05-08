@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "  <link href=\"//cdn.ecvol.com/plugins/bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\">\n",
+  "html_head": "  <link href=\"//cdn.ecvol.com/plugins/font-awesome/css/font-awesome.min.css\" rel=\"stylesheet\">\n\n  <link href=\"//cdn.ecvol.com/plugins/owl-carousel/owl.carousel.min.css\" rel=\"stylesheet\">\n\n  <link href=\"//cdn.ecvol.com/css/preset.min.css?v=1.159\" rel=\"stylesheet\">\n  <link href=\"https://cdn.ecvol.com/s/www.fitpop.com.br/css/theme.min.css?v=277\" rel=\"stylesheet\">\n  <link href=\"https://cdn.ecvol.com/s/www.fitpop.com.br/css/custom.min.css?v=22\" rel=\"stylesheet\">\n  <link href=\"//cdn.ecvol.com/css/preset.responsive.min.css?v=1.159\" rel=\"stylesheet\">\n  <link href=\"https://cdn.ecvol.com/s/www.fitpop.com.br/css/theme.responsive.min.css?v=277\" rel=\"stylesheet\">\n  <link href=\"https://cdn.ecvol.com/s/www.fitpop.com.br/css/custom.responsive.min.css?v=22\" rel=\"stylesheet\">\n  <link rel=\"shortcut icon\" href=\"https://cdn.ecvol.com/s/www.fitpop.com.br/img/favicon.png?v=30\">",
   "html_body": ""
 }
