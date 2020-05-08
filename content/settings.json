@@ -1,22 +1,22 @@
 {
-  "store_id": 1092,
-  "name": "FITPOP",
   "domain": "fitpop.netlify.app",
-  "short_name": "FITPOP",
-  "description": "FITPOP",
+  "currency_symbol": "R$",
   "primary_color": "#e21a4b",
-  "secondary_color": "#000000",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "FITPOP",
+  "short_name": "FITPOP",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#000000",
+  "icon": "/img/icon.png",
+  "store_id": 1092,
+  "description": "FITPOP",
+  "large_icon": "/img/large-icon.png"
 }
