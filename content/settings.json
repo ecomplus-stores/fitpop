@@ -5,18 +5,18 @@
   "theme": {
     "bootswatch": "cosmo"
   },
-  "bg_color": "#faf4f4",
+  "bg_color": "#010000",
   "logo": "/img/uploads/logo.png",
-  "name": "FITPOP - LOJA DE MODA",
+  "name": "FITPOP",
   "short_name": "FITPOP",
   "lang": "pt_br",
   "currency": "BRL",
-  "mini_logo": "/img/uploads/minilogo.png",
+  "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
   "secondary_color": "#000000",
-  "icon": "/img/uploads/minilogo.png",
+  "icon": "/img/icon.png",
   "store_id": 1092,
-  "description": "FITNESS",
-  "large_icon": "/img/uploads/minilogo.png"
+  "description": "FITPOP",
+  "large_icon": "/img/large-icon.png"
 }
