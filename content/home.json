@@ -32,6 +32,11 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/site.jpg",
+      "link": "https://www.fitpop.com.br/moda-fitness/"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
