@@ -26,12 +26,12 @@
       "type": "image/png"
     }
   ],
-  "name": "FITPOP",
+  "name": "FITPOP - LOJA DE MODA",
   "short_name": "FITPOP",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "FITPOP",
-  "background_color": "#010000",
+  "description": "FITNESS",
+  "background_color": "#faf4f4",
   "theme_color": "#e21a4b"
 }
