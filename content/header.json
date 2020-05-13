@@ -26,7 +26,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/conjuntos?CONJUNTOS",
+      "/leggings?LEGGINGS",
+      "/top?TOP"
+    ],
     "random": 6
   },
   "search_input": true
