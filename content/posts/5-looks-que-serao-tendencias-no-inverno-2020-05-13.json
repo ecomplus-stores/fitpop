@@ -4,6 +4,15 @@
   "thumbnail": "/img/uploads/rect8589.png",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-de-inicio-3.png",
+      "mobile_img": "/img/uploads/banner-de-inicio-3.png"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2020-05-13T00:06:53.499Z",
@@ -17,10 +26,6 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "type": "blog",
       "enabled": true
     }
   ],
