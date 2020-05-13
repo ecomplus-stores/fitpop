@@ -32,11 +32,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/site.jpg",
-      "link": "/moda-fitness/"
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
