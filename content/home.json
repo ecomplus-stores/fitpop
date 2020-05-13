@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 3500,
       "slides": [
         {
           "img": "/img/uploads/banner-home-inicial-1.png",
@@ -12,23 +12,14 @@
           "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-home-inicial-1-mobile.jpg"
+          "mobile_img": "/img/uploads/banner-home-inicial-1-mobile1.jpg"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-2-home-1.png",
-          "link": "/moda-fitness/"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-de-inicio-3.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-4-completo.png"
+          "link": "/moda-fitness/",
+          "mobile_img": "/img/uploads/banner-home-inicial-2-mobile2.jpg"
         }
       ]
     },
