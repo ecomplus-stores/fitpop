@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "",
-    "link": ""
+    "text": "Buscando o melhor do Fitness? Confira essa promo especial para você;",
+    "link": "https://fitpop.netlify.app/conjunto-jacquard-touch-large-legging-top-fitpop"
   },
   "contacts_stripe": {
     "pages": [
@@ -19,7 +19,8 @@
       {
         "title": "Meus Favoritos",
         "link": "https://www.fitpop.com.br/favoritos"
-      }
+      },
+      {}
     ],
     "phone_wpp": true,
     "socials": true
