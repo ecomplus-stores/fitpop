@@ -14,6 +14,14 @@
         "5eb46a735ac4060578b89627",
         "5eb46b0e5ac4060578b8966e"
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ],
   "body": "\\### Vamos la\n\nUm bom jeito de começar e começando e isso não é nada de mais....",
