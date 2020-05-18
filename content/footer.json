@@ -1,19 +1,27 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Nós somos uma empresa de moda Fitness feminina.",
+    "text": "Nós somos uma empresa com sede em Brusque-SC e já atuamos a mais de 12 anos no mercado de roupa fitness. (Provavelmente você já utilizou uma legging, um top, um body, etc, que foi fabricado com muito amor por nós."
   },
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "Blog",
+        "url": "fitpop.com.br/blog"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
-    "title": "",
+    "title": "Trabalhamos com",
     "list": [
       {
         "url": "https://www.facebook.com/fitpopoficial/"
+      },
+      {
+        "url": "https://www.instagram.com/fitpopoficial/"
       }
     ]
   },
@@ -31,22 +39,22 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": true,
-    "banrisul": true,
+    "banrisul": false,
     "elo": true,
     "hipercard": false,
-    "hsbc": true,
+    "hsbc": false,
     "bradesco": true,
-    "santander": true,
+    "santander": false,
     "mastercard": true,
     "paypal": true,
     "citibank": false,
     "hiper": true,
     "diners": true,
-    "mais": true,
+    "mais": false,
     "amex": true,
     "itau": true
   },
