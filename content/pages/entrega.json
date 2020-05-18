@@ -2,13 +2,20 @@
   "title": "Fretes e Entregas",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "Somos uma empresa de 12 anos de atuação localizada em Brusque-SC (CEP 88351-480) e atendemos apenas pela nossa loja online, e em breve no Catarina Shopping (CEP 88355-202);\n\n![](/img/uploads/foto-certa.jpg)\n\n**O Cálculo do frete:**\n\n\\\nO frete é calculado durante o processo de compra. Em um determinado momento, você será solicitado a informar o CEP da entrega do produto e o nosso sistema integrado com o sistema oficial dos correiros calculará automaticamente o valor do frete, desse modo, o resultado deste calculo será somado ao valor da compra, formando assim o valor total a ser pago.\n\n\\\n**Entrega:**\\\nAs entregas são realizadas mediante a confirmação do pagamento do frete, ou de maneira gratuita para determinadas regiões de Santa Catarina [(Confira aqui se atendemos sua cidade)](http://%28confira%20aqui%20se%20atendemos%20sua%20cidade%29/).\n\n\n\n**O valor:**\n\nO valor do frete está relacionado com as dimensões e peso do produto, a distância do local de entrega da encomenda e a forma de entrega.\\\nImportante: O prazo de envio de sua encomenda se inicia a partir da confirmação de pagamento pela instituição financeira.\\\nCaso tenha dúvidas, entre em contato com o nosso Serviço de Atendimento ao Cliente.",
+  "body": "### Somos uma empresa de 12 anos de atuação localizada em Brusque-SC (CEP 88351-480) e atendemos apenas pela nossa loja online, e em breve no Catarina Shopping (CEP 88355-202);\n\n![](/img/uploads/foto-certa.jpg)\n\n**O Cálculo do frete:**\n\n\\\nO frete é calculado durante o processo de compra. Em um determinado momento, você será solicitado a informar o CEP da entrega do produto e o nosso sistema integrado com o sistema oficial dos correiros calculará automaticamente o valor do frete, desse modo, o resultado deste calculo será somado ao valor da compra, formando assim o valor total a ser pago.\n\n\\\n**Entrega:**\\\nAs entregas são realizadas mediante a confirmação do pagamento do frete, ou de maneira gratuita para determinadas regiões de Santa Catarina [(Confira aqui se atendemos sua cidade)](http://%28confira%20aqui%20se%20atendemos%20sua%20cidade%29/).\n\n\n\n**O valor:**\n\nO valor do frete está relacionado com as dimensões e peso do produto, a distância do local de entrega da encomenda e a forma de entrega.\\\nImportante: O prazo de envio de sua encomenda se inicia a partir da confirmação de pagamento pela instituição financeira.\\\nCaso tenha dúvidas, entre em contato com o nosso Serviço de Atendimento ao Cliente.",
   "sections": [
     {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2020-05-18T14:48:59.261Z",
-      "end": "2020-05-18T14:48:59.278Z"
+      "end": "2020-05-18T14:48:59.278Z",
+      "offers": [
+        "5eb46a125ac4060578b895f9",
+        "5eb46a4b5ac4060578b89614",
+        "5eb46ac25ac4060578b8964a",
+        "5eb46a125ac4060578b895f9",
+        "5eb469d65ac4060578b895de"
+      ]
     }
   ]
 }
