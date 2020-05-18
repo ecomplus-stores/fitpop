@@ -1,6 +1,13 @@
 {
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
-  "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "meta_description": "Nós somos uma empresa com sede em Brusque-SC e já atuamos a mais de 12 anos no mercado de roupa fitness.",
+  "body": "**Nós somos uma empresa com sede em Brusque-SC e já atuamos a mais de 12 anos no mercado de roupa fitness.** (Provavelmente você já utilizou uma legging, um top, um body, etc, que foi fabricado com muito amor por nós.\n\nNós amamos pensar nas melhores coisas para as pessoas que acreditam em nós e nos incentivam a criar um mundo melhor, com mais oportunidades de emprego, mas cuidado com a natureza e com a saúde.\n\nNós realmente amamos pensar diferente do tradicional, pois pensamentos engessados e atrasados não nos agradam;\n\nQuando dizemos pensar nas melhores coisas para as pessoas ao nosso redor, temos que pensar em um ecossistema que seja parte do que somos e queremos ser.\n\nTemos amor a costura bem feita, desenvolvemos modelagens especiais para treinos resistente e ao mesmo tempo confortáveis. E também, pensamos nos melhores tecidos e por isso muitos deles tem o Selo Green Fiber que protege e cuida do nosso meio ambiente e proteção Solar; \n\nE também tentamos dar o maior suporte aqui pelo site ou contatos sociais para caso de dúvidas sobre compras, trocas, tamanhos ou sugestões para nosso crescimento.\n\nNós fazemos o nosso melhor, com o que temos em mãos.\n\nTemos o objetivo de deixar claro nossos compromisso com nossos clientes, colaboradores, fornecedores e caso você queira conhece-lo, click nos itens abaixo.\n\nTirei as dúvidas mais frequentes sobre:\n\n### [Correio](https://www.fitpop.com.br/pagina/entrega)\\\n[Pagamentos](https://www.fitpop.com.br/pagina/pagamento)\\\n[Devoluções](https://www.fitpop.com.br/pagina/devolucoes-e-trocas)\\\n[Contatos](https://www.fitpop.com.br/contato)\n\n\\\nCaso ainda não esteja disponíveis todas as informações em cada página grifada acima. Por favor, em contato conosco aqui pelo Chat do site ou em nosso e-mail: [contato@fipop.com.br](contato@fipop.com.br)\n\nLembre-se, vestir-se bem é qualidade de vida.",
+  "sections": [
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "title": "Confira nossos melhores produtos aqui:"
+    }
+  ]
 }
