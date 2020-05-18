@@ -4,15 +4,19 @@
   "meta_description": "Blog",
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "page-title"
     },
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true
     }
   ]
 }
