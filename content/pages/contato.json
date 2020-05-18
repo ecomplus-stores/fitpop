@@ -2,5 +2,11 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "## Contato\n\n#####  (47)3351-7514\\\n (47)9 9635-2683\\\n **[contato@fitpop.com.br](mailto:contato@fitpop.com.br)**",
+  "sections": [
+    {
+      "type": "collection-shelf",
+      "shuffle": true
+    }
+  ]
 }
