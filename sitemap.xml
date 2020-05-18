@@ -182,12 +182,6 @@
     </url>
   
     <url>
-      <loc>https://fitpop.netlify.app/posts/5-looks-que-serao-tendencias-no-inverno-2020-05-13</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://fitpop.netlify.app/posts/esta-loja-e-um-pwa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -195,6 +189,12 @@
   
     <url>
       <loc>https://fitpop.netlify.app/posts/nossa-historia-2020-05-13</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://fitpop.netlify.app/posts/5-looks-que-serao-tendencias-no-inverno-2020-05-13</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
