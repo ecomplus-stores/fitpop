@@ -182,6 +182,12 @@
     </url>
   
     <url>
+      <loc>https://fitpop.netlify.app/posts/direcao-e-melhor-que-velocidade-se-voce-quiser-realizar-seus-sonhos-2020-05-23</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://fitpop.netlify.app/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -194,15 +200,15 @@
     </url>
   
     <url>
-      <loc>https://fitpop.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://fitpop.netlify.app/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://fitpop.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
