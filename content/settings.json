@@ -1,4 +1,5 @@
 {
+  "store_id": 1092,
   "domain": "fitpop.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "#e21a4b",
@@ -16,7 +17,6 @@
   "country_code": "BR",
   "secondary_color": "#000000",
   "icon": "/img/uploads/logo2.png",
-  "store_id": 1092,
   "description": "FITPOP",
   "large_icon": "/img/uploads/logo2.png"
 }
