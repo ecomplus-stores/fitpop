@@ -29,6 +29,12 @@
       "shuffle": true,
       "collection_id": null,
       "title": "CONHEÇA UM POUCO DA NOSSA VITRINE"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "sort": "offers",
+      "title": "OFERTAS DA SEMANA"
     }
   ]
 }
