@@ -26,7 +26,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/conjuntos?CONJUNTOS",
+      "/leggings?LEGGINGS",
+      "/top?TOP",
+      "/3-pecas-por-14994?3 peças por 149,94"
+    ],
     "random": 6
   },
   "search_input": true
