@@ -1,7 +1,11 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "FITPOP COLLECTIONS ",
+  "meta_description": "Essa é a porta de entrada da nossa loja. Aqui você pode conferir praticamente tudo que fazemos!",
   "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
     {
       "type": "banner-slider",
       "autoplay": 3500,
@@ -25,31 +29,6 @@
       "shuffle": true,
       "collection_id": null,
       "title": "CONHEÇA UM POUCO DA NOSSA VITRINE"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2020-05-13T03:15:58.404Z",
-      "end": "2020-05-13T03:15:58.437Z",
-      "offers": [
-        "5eb46ac25ac4060578b8964a"
-      ]
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2020-05-13T19:44:45.494Z",
-      "end": "2020-05-13T19:44:45.528Z",
-      "notes": "Promoção válida por tempo limitado!",
-      "offers": [
-        "5ebbebcb126b0d057212fcdd",
-        "5eb46a125ac4060578b895f9",
-        "5eb46a4b5ac4060578b89614"
-      ]
     }
   ]
 }
