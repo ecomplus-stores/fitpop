@@ -35,20 +35,6 @@
       "shuffle": false,
       "sort": "offers",
       "title": "OFERTAS DA SEMANA"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/11122071_769636899802096_584498107_n-2-.jpg"
-        },
-        {
-          "img": "/img/uploads/banner-home-inicial-3-mobile1.jpg"
-        },
-        {
-          "img": "/img/uploads/banner-home-inicial-1-mobile2.jpg"
-        }
-      ]
     }
   ]
 }
