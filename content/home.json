@@ -35,6 +35,18 @@
       "shuffle": false,
       "sort": "offers",
       "title": "OFERTAS DA SEMANA"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-05-25T02:38:07.149Z",
+          "end": "2020-05-25T02:38:07.179Z",
+          "img": "/img/uploads/selo-de-qualidade.jpg",
+          "mobile_img": "/img/uploads/selo-de-qualidade-mobile.jpg"
+        }
+      ]
     }
   ]
 }
