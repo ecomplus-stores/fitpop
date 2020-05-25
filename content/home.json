@@ -11,7 +11,7 @@
       "autoplay": 3500,
       "slides": [
         {
-          "img": "/img/uploads/prancheta-1.1.jpg",
+          "img": "/img/uploads/prancheta-1.2.jpg",
           "link": "/moda-fitness/",
           "alt": "",
           "start": "",
@@ -37,16 +37,14 @@
       "title": "OFERTAS DA SEMANA"
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
         {
-          "img": "/img/uploads/11122071_769636899802096_584498107_n-2-.jpg"
-        },
-        {
-          "img": "/img/uploads/banner-home-inicial-3-mobile1.jpg"
-        },
-        {
-          "img": "/img/uploads/banner-home-inicial-1-mobile2.jpg"
+          "start": "2020-05-25T02:38:07.149Z",
+          "end": "2020-05-25T02:38:07.179Z",
+          "img": "/img/uploads/selo-de-qualidade.jpg",
+          "mobile_img": "/img/uploads/selo-de-qualidade-mobile.jpg"
         }
       ]
     }
