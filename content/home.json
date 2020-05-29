@@ -47,6 +47,11 @@
           "mobile_img": "/img/uploads/selo-de-qualidade-mobile.jpg"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/prancheta-1-desk.jpg",
+      "mobile_img": "/img/uploads/prancheta-1.jpg"
     }
   ]
 }
