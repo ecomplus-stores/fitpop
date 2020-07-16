@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "3 peças por apenas 149,94 R$... (CLICK AQUI para aproveitar!)",
-    "link": "https://fitpop.com.br/3-pecas-por-14994"
+    "text": "",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -31,7 +31,8 @@
       "/top?TOP",
       "/ofertas?OFERTAS"
     ],
-    "random": 0
+    "random": 0,
+    "full_width": true
   },
   "search_input": true
 }
