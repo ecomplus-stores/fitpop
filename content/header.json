@@ -28,8 +28,7 @@
     "featured": [
       "/conjuntos?CONJUNTOS",
       "/leggings?LEGGINGS",
-      "/top?TOP",
-      "/ofertas?OFERTAS"
+      "/top?TOP"
     ],
     "random": 0,
     "full_width": true
