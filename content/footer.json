@@ -38,7 +38,12 @@
       "alt": "Conexão HTTPS segura"
     },
     {
-      "src": "/img/uploads/logo-catarina.jpg"
+      "src": "/img/uploads/logo-catarina.jpg",
+      "link": "https://catarinashopping.com.br/"
+    },
+    {
+      "src": "/img/uploads/sipag-menor.png",
+      "link": "https://www.sipag.com.br/"
     }
   ],
   "payment_methods": {
