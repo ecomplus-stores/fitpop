@@ -36,6 +36,9 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Conexão HTTPS segura"
+    },
+    {
+      "src": "/img/uploads/logo-catarina.jpg"
     }
   ],
   "payment_methods": {
