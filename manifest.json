@@ -32,6 +32,6 @@
   "display": "standalone",
   "start_url": ".",
   "description": "FITPOP COLLECTIONS",
-  "background_color": "#010000",
+  "background_color": "#e21a4b",
   "theme_color": "#e21a4b"
 }
