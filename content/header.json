@@ -1,12 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "COVID-19 - Confira nossas medidas de segurança",
     "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "link": "contato@fitpop.com.br "
+        "link": "",
+        "title": "Frete"
       },
       {
         "title": "Atendimento",
@@ -15,10 +16,6 @@
       {
         "title": "Compras",
         "link": "https://www.fitpop.com.br/carrinho"
-      },
-      {
-        "title": "Meus Favoritos",
-        "link": "https://www.fitpop.com.br/favoritos"
       }
     ],
     "phone_wpp": true,
