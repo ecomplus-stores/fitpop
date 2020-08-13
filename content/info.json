@@ -1,19 +1,19 @@
 {
   "shipping": {
-    "show": false,
-    "text": ""
+    "show": true,
+    "text": "Por conta dos Representantes do Shopping."
   },
   "installments": {
-    "show": false,
-    "text": "",
+    "show": true,
+    "text": "ATÉ 6 VEZES SEM JUROS",
     "link": ""
   },
   "exchange": {
-    "show": false,
+    "show": true,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": true,
+    "text": "Todas as semanas novas promoções!"
   }
 }
