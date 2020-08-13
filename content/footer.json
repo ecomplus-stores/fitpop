@@ -34,8 +34,9 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Conexão HTTPS segura"
+      "src": "/img/uploads/google-report.png",
+      "alt": "Conexão HTTPS segura",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.fitpop.com.br"
     },
     {
       "src": "/img/uploads/logo-catarina.jpg",
