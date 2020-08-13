@@ -11,11 +11,11 @@
       },
       {
         "title": "Atendimento",
-        "link": "https://www.fitpop.com.br/contato"
+        "link": "https://www.fitpop.com.br/pages/contato"
       },
       {
         "title": "Compras",
-        "link": "https://www.fitpop.com.br/carrinho"
+        "link": "https://www.fitpop.com.br/app/#/cart"
       }
     ],
     "phone_wpp": true,
