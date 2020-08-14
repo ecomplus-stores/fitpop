@@ -1,19 +1,19 @@
 {
   "shipping": {
     "show": true,
-    "text": "Por conta dos Representantes do Shopping."
+    "text": "GRATUITO PARA CNPJ"
   },
   "installments": {
     "show": true,
-    "text": "ATÉ 6 VEZES SEM JUROS",
+    "text": "ATÉ 6 VEZES S/ JUROS",
     "link": ""
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "TROCAS FACILITADAS"
   },
   "promo": {
     "show": true,
-    "text": "Todas as semanas novas promoções!"
+    "text": "CLICA E APROVEITA NOSSAS PROMOÇÕES"
   }
 }
