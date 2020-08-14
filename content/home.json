@@ -8,7 +8,7 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 300,
+      "autoplay": 1000,
       "slides": [
         {
           "img": "/img/uploads/web2.jpg",
