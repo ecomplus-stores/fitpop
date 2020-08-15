@@ -33,7 +33,8 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
-      "title": "CONHEÇA UM POUCO DA NOSSA VITRINE"
+      "title": "CONHEÇA UM POUCO DA NOSSA VITRINE",
+      "sort": "highest_price"
     },
     {
       "type": "banners-grid",
