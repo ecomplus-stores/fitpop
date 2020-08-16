@@ -2,11 +2,15 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "##  Contato\n\n#####  (47)3351-7514\\\n (47)9 9635-2683\\\n **[contato@fitpop.com.br](mailto:contato@fitpop.com.br)**\n\n[FACEBOOK](WWW.FACEBOOK.COM/FITPOPOFICIAL)\n\n[](WWW.FACEBOOK.COM/FITPOPOFICIAL)[INSTAGRAM](WWW.INSTAGRAM.COM/FITPOPOFICIAL)",
+  "body": "## Contato\n\n##### [(47)3351-7514](tel:+4732111009)\n\n[(47)9 8803-8737](https://web.whatsapp.com/send?phone=%2B5547988038737)\\\n **[contato@fitpop.com.br](mailto:contato@fitpop.com.br)**\n\n[FACEBOOK](WWW.FACEBOOK.COM/FITPOPOFICIAL)\n\n[](WWW.FACEBOOK.COM/FITPOPOFICIAL)[INSTAGRAM](WWW.INSTAGRAM.COM/FITPOPOFICIAL)",
   "sections": [
     {
-      "type": "collection-shelf",
-      "shuffle": true
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
