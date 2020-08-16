@@ -11,12 +11,12 @@
       "autoplay": 2000,
       "slides": [
         {
-          "img": "/img/uploads/web2.jpg",
+          "img": "/img/uploads/banner-inicial-home-web.jpg",
           "link": "",
           "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/mobile.jpg"
+          "mobile_img": "/img/uploads/banner-inicial-home.jpg"
         },
         {
           "start": "",
