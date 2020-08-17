@@ -50,6 +50,10 @@
       "title": "OFERTAS DA SEMANA",
       "headless": false,
       "link": "https://www.fitpop.com.br/conjuntos"
+    },
+    {
+      "type": "custom-html",
+      "html": "<meta name=\"google-site-verification\" content=\"mEYbFp9usMRpcD5kvGFJh80nUB5unaDn_kKbYv4FGTA\" />"
     }
   ]
 }
