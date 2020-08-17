@@ -34,6 +34,37 @@
       "enabled": true
     },
     {
+      "type": "banner-slider",
+      "autoplay": 6000,
+      "slides": [
+        {
+          "img": "/img/uploads/banner-inicial-home-web.jpg",
+          "link": "https://catarinashopping.com.br/cadastro-de-cliente",
+          "alt": "Click para se cadastrar no shopping e conhecer todos os benefícios para lojistas!",
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/banner-inicial-home.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/web-6-sem-juros2.jpg",
+          "mobile_img": "/img/uploads/mobile-pagamento-6-x-sem-juros.jpg"
+        }
+      ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/web-correio.jpg",
+      "mobile_img": "/img/uploads/mobile-frete-gratuito.jpg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -49,50 +80,8 @@
       "link": "https://www.fitpop.com.br/conjuntos"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 6000,
-      "slides": [
-        {
-          "img": "/img/uploads/banner-inicial-home-web.jpg",
-          "link": "https://catarinashopping.com.br/cadastro-de-cliente",
-          "alt": "Click para se cadastrar no shopping e conhecer todos os benefícios para lojistas!",
-          "start": "",
-          "end": "",
-          "mobile_img": "/img/uploads/banner-inicial-home.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/web-6-sem-juros2.jpg",
-          "mobile_img": "/img/uploads/mobile-pagamento-6-x-sem-juros.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/web-correio.jpg",
-          "mobile_img": "/img/uploads/mobile-frete-gratuito.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/web-6-sem-juros2.jpg"
-        }
-      ]
-    },
-    {
       "type": "custom-html",
       "html": "<meta name=\"google-site-verification\" content=\"mEYbFp9usMRpcD5kvGFJh80nUB5unaDn_kKbYv4FGTA\" />"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/web-correio.jpg",
-      "mobile_img": "/img/uploads/mobile-frete-gratuito.jpg"
     }
   ]
 }
