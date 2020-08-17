@@ -1,19 +1,21 @@
 {
   "shipping": {
     "show": true,
-    "text": "FRETE GRATUITO COM PARCEIROS"
+    "text": "FRETE GRATUITO COM PARCEIROS",
+    "link": "https://www.fitpop.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
     "text": "PARCELAMENTO FACILITADO",
-    "link": ""
+    "link": "https://www.fitpop.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": true,
-    "text": "TROCAS FACILITADAS"
+    "text": "TROCAS FACILITADAS",
+    "link": "https://www.fitpop.com.br/pages/trocas"
   },
   "promo": {
     "show": true,
-    "text": "CLICA E APROVEITA NOSSAS PROMOÇÕES"
+    "text": "PROMOÇÕES DIRETO NO SITE"
   }
 }
