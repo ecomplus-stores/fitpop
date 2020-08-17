@@ -176,6 +176,12 @@
     </url>
   
     <url>
+      <loc>https://fitpop.netlify.app/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://fitpop.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -183,12 +189,6 @@
   
     <url>
       <loc>https://fitpop.netlify.app/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://fitpop.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -212,13 +212,13 @@
     </url>
   
     <url>
-      <loc>https://fitpop.netlify.app/posts/7-dicas-para-sair-em-seguranca-com-seus-filhos-durante-a-pandemia-de-covid-19-2020-05-24</loc>
+      <loc>https://fitpop.netlify.app/posts/direcao-e-melhor-que-velocidade-se-voce-quiser-realizar-seus-sonhos-2020-05-23</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://fitpop.netlify.app/posts/direcao-e-melhor-que-velocidade-se-voce-quiser-realizar-seus-sonhos-2020-05-23</loc>
+      <loc>https://fitpop.netlify.app/posts/7-dicas-para-sair-em-seguranca-com-seus-filhos-durante-a-pandemia-de-covid-19-2020-05-24</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
