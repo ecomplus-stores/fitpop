@@ -1,7 +1,7 @@
 {
   "useJquery": true,
   "productSlots": "src/append/product-slots",
-  "active": true,
+  "active": false,
   "productDescriptionAppend": "src/append/product-block",
   "desktopOnly": false,
   "enableCheckout": false,
