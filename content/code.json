@@ -1,5 +1,5 @@
 {
-  "css": ".banner {\n    width: 100% !important;\n}",
+  "css": ".banner {\n    width: 100% !important;\n}\n.grid {\n    width: 100% !important;\n}",
   "html_head": "",
   "html_body": ""
 }
