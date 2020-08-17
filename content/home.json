@@ -3,10 +3,6 @@
   "meta_description": "Essa é a porta de entrada da nossa loja. Aqui você pode conferir praticamente tudo que fazemos!",
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "breadcrumbs",
       "enabled": false
     },
@@ -32,6 +28,10 @@
           "img": "/img/uploads/top.jpg"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
