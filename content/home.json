@@ -8,7 +8,7 @@
     },
     {
       "type": "breadcrumbs",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "banner-slider",
