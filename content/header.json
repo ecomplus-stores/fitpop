@@ -6,7 +6,7 @@
   "contacts_stripe": {
     "pages": [
       {
-        "link": "",
+        "link": "https://www.fitpop.com.br/pages/entrega",
         "title": "Frete"
       },
       {
@@ -16,6 +16,10 @@
       {
         "title": "Compras",
         "link": "https://www.fitpop.com.br/app/#/cart"
+      },
+      {
+        "title": "CHEQUE 30, 60 E 90",
+        "link": "https://www.fitpop.com.br/pages/pagamentos"
       }
     ],
     "phone_wpp": true,
