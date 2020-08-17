@@ -8,44 +8,19 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 6000,
+      "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-inicial-home-web.jpg",
-          "link": "https://catarinashopping.com.br/cadastro-de-cliente",
-          "alt": "Click para se cadastrar no shopping e conhecer todos os benefícios para lojistas!",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-inicial-home.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/web-6-sem-juros2.jpg",
-          "mobile_img": "/img/uploads/mobile-pagamento-6-x-sem-juros.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/web-correio.jpg",
-          "mobile_img": "/img/uploads/mobile-frete-gratuito.jpg"
+          "img": "/img/uploads/conjuntos.jpg",
+          "mobile_img": "/img/uploads/mobile.jpg"
         }
       ]
     },
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/conjuntos.jpg"
-        }
-      ]
     },
     {
       "type": "banners-grid",
@@ -72,6 +47,32 @@
       "title": "OFERTAS DA SEMANA",
       "headless": false,
       "link": "https://www.fitpop.com.br/conjuntos"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 6000,
+      "slides": [
+        {
+          "img": "/img/uploads/banner-inicial-home-web.jpg",
+          "link": "https://catarinashopping.com.br/cadastro-de-cliente",
+          "alt": "Click para se cadastrar no shopping e conhecer todos os benefícios para lojistas!",
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/banner-inicial-home.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/web-6-sem-juros2.jpg",
+          "mobile_img": "/img/uploads/mobile-pagamento-6-x-sem-juros.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/web-correio.jpg",
+          "mobile_img": "/img/uploads/mobile-frete-gratuito.jpg"
+        }
+      ]
     },
     {
       "type": "custom-html",
