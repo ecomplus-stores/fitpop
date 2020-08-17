@@ -75,8 +75,24 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/web-6-sem-juros2.jpg"
+        }
+      ]
+    },
+    {
       "type": "custom-html",
       "html": "<meta name=\"google-site-verification\" content=\"mEYbFp9usMRpcD5kvGFJh80nUB5unaDn_kKbYv4FGTA\" />"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/web-correio.jpg",
+      "mobile_img": "/img/uploads/mobile-frete-gratuito.jpg"
     }
   ]
 }
