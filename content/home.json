@@ -16,7 +16,7 @@
           "alt": "Click para se cadastrar no shopping e conhecer todos os benefícios para lojistas!",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-inicial-home.jpg"
+          "mobile_img": "/img/uploads/banner-inicial-home-2.1.jpg"
         }
       ]
     },
@@ -26,16 +26,21 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/conjuntos.jpg"
+      "img": "/img/uploads/conjunto-fitness-fitpop-desk-home.jpg",
+      "mobile_img": "/img/uploads/conjuntos-fitness-mob-home.jpg"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/legging.jpg"
+          "img": "/img/uploads/legging-fitness-home.jpg",
+          "link": "https://www.fitpop.com.br/leggings",
+          "alt": "Confira todas as nossas Calças Leggings!"
         },
         {
-          "img": "/img/uploads/top.jpg"
+          "img": "/img/uploads/top-fitness-home.jpg",
+          "link": "https://www.fitpop.com.br/top",
+          "alt": "Conheça todos os nossos Tops Fitness."
         }
       ]
     },
@@ -61,15 +66,15 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/web-6-sem-juros2.jpg",
-          "mobile_img": "/img/uploads/mobile-pagamento-6-x-sem-juros.jpg"
+          "img": "/img/uploads/web-6-sem-juros.2.jpg",
+          "mobile_img": "/img/uploads/mobile-pagamento-6-x-sem-juros-1.jpg"
         }
       ]
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/web-correio.jpg",
-      "mobile_img": "/img/uploads/mobile-frete-gratuito.jpg"
+      "img": "/img/uploads/web-correio-2.jpg",
+      "mobile_img": "/img/uploads/mobile-frete-gratuito-1.jpg"
     },
     {
       "type": "custom-html",
