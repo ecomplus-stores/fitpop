@@ -31,7 +31,7 @@
       "/leggings?LEGGINGS",
       "/top?TOP"
     ],
-    "random": 4,
+    "random": 0,
     "full_width": false
   },
   "search_input": true
