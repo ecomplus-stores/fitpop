@@ -25,35 +25,6 @@
       "enabled": true
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/web-6-sem-juros2.jpg",
-          "mobile_img": "/img/uploads/mobile-pagamento-6-x-sem-juros.jpg"
-        }
-      ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/web-correio.jpg",
-      "mobile_img": "/img/uploads/mobile-frete-gratuito.jpg"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/conjuntos.jpg",
-          "mobile_img": "/img/uploads/mobile.jpg"
-        }
-      ]
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/conjuntos.jpg"
     },
@@ -82,6 +53,23 @@
       "title": "OFERTAS DA SEMANA",
       "headless": false,
       "link": "https://www.fitpop.com.br/conjuntos"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/web-6-sem-juros2.jpg",
+          "mobile_img": "/img/uploads/mobile-pagamento-6-x-sem-juros.jpg"
+        }
+      ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/web-correio.jpg",
+      "mobile_img": "/img/uploads/mobile-frete-gratuito.jpg"
     },
     {
       "type": "custom-html",
