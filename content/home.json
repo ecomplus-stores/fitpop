@@ -54,6 +54,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/conjuntos.jpg"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
