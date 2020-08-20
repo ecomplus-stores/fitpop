@@ -1,10 +1,10 @@
 {
-  "meta_title": "FITPOP COLLECTIONS ",
-  "meta_description": "Essa é a porta de entrada da nossa loja. Aqui você pode conferir praticamente tudo que fazemos!",
+  "meta_title": "FITPOP COLLECTIONS | ATACADO",
+  "meta_description": "Somos uma loja de Moda Fitness, localizada no Catarina Moda Shopping. Confira nosso material!",
   "sections": [
     {
       "type": "breadcrumbs",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "banner-slider",
