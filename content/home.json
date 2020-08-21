@@ -25,8 +25,23 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-1.jpg"
+        },
+        {
+          "img": "/img/uploads/banner-2.jpg"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
-      "img": "/img/uploads/conjunto-fitness-fitpop-desk-home.jpg",
+      "img": "/img/uploads/banner-4.jpg"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/conjunto-fitness-fitpop-desk-home-2.jpg",
       "mobile_img": "/img/uploads/conjuntos-fitness-mob-home.jpg"
     },
     {
