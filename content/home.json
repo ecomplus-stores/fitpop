@@ -8,15 +8,17 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 6000,
+      "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-inicial-home-web.jpg",
-          "link": "https://catarinashopping.com.br/cadastro-de-cliente",
-          "alt": "Click para se cadastrar no shopping e conhecer todos os benefícios para lojistas!",
-          "start": "",
-          "end": "",
-          "mobile_img": "/img/uploads/banner-inicial-home-2.1.jpg"
+          "start": "2020-08-21T18:13:28.557Z",
+          "end": "2020-08-21T18:13:28.622Z",
+          "img": "/img/uploads/banner-de-inicio-3.png"
+        },
+        {
+          "start": "2020-08-21T18:13:48.561Z",
+          "end": "2020-08-21T18:13:48.648Z",
+          "img": "/img/uploads/banner-4-completo.png"
         }
       ]
     },
@@ -73,6 +75,20 @@
       "title": "OFERTAS DA SEMANA",
       "headless": false,
       "link": "https://www.fitpop.com.br/conjuntos"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 6000,
+      "slides": [
+        {
+          "img": "/img/uploads/banner-inicial-home-web.jpg",
+          "link": "https://catarinashopping.com.br/cadastro-de-cliente",
+          "alt": "Click para se cadastrar no shopping e conhecer todos os benefícios para lojistas!",
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/banner-inicial-home-2.1.jpg"
+        }
+      ]
     },
     {
       "type": "banner-slider",
