@@ -3,10 +3,6 @@
   "meta_description": "Somos uma loja de Moda Fitness, localizada no Catarina Moda Shopping. Confira nosso material!",
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -16,6 +12,10 @@
           "img": "/img/uploads/prancheta-4.png"
         }
       ]
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "info-bar",
