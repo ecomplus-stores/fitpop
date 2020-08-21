@@ -1,5 +1,5 @@
 {
-  "css": ".banner {\n    width: 100% !important;\n}\n.grid-banner {\n    width: 100% !important;\n}",
+  "css": ".banner {\n    width: 100% !important;\n}\n.grid-banner {\n    width: 100% !important;\n}\n@media (max-width: 767px) {\n\n  .header__toggler:after {\n    content: 'MENU'\n  }\n  .header__logo {\n    width: 100%;\n  }\n}",
   "html_head": "",
   "html_body": ""
 }
