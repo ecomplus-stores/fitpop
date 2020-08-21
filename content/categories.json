@@ -18,6 +18,10 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "### **Tops confeccionados com muito amor e com muito carinho.** \n\n1. Toda a linha conta com proteção UV, para dias de sol.\n2. Modelagem feita para proporcionar conforto e praticidade.\n3. Boa parte da nossa confecção é feita com bojo removível. \n\n[Faça login em sua conta](https://www.fitpop.com.br/app/#/account/) ou [cadastre-se agora](https://www.fitpop.com.br/app/#/account/)!"
     }
   ]
 }
