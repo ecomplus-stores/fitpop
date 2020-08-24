@@ -131,7 +131,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<a href=\"javascript:window.Metomic('ConsentManager:show')\">manage cookies</a>"
+      "html": "<a href=\"javascript:window.Metomic('ConsentManager:show')\">Alterar Preferências de Cookies</a>"
     }
   ]
 }
