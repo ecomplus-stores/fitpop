@@ -128,6 +128,10 @@
     {
       "type": "custom-html",
       "html": "<script id = \"mcjs\">! função (c, h, i, m, p) {m = c.createElement (h), p = c.getElementsByTagName (h) [0], m.async = 1, m .src = i, p.parentNode.insertBefore (m, p)} (documento, \"script\", \"https://chimpstatic.com/mcjs-connected/js/users/62342f89f19b99ffcb54d6d71/34dabcda8462f97154f846c14.js\"); </script>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<a href=\"javascript:window.Metomic('ConsentManager:show')\">manage cookies</a>"
     }
   ]
 }
