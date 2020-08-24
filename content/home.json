@@ -9,22 +9,26 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-de-inicio-3.4.png"
+          "img": "/img/uploads/banner-de-inicio-3.4.png",
+          "mobile_img": "/img/uploads/slide-home-mob-1.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/slide-home-2.jpg"
+          "img": "/img/uploads/slide-home-2.jpg",
+          "mobile_img": "/img/uploads/slide-home-mob-2.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/slide-home-3.jpg"
+          "img": "/img/uploads/slide-home-3.jpg",
+          "mobile_img": "/img/uploads/slide-home-mob-3.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/slide-home-4.jpg"
+          "img": "/img/uploads/slide-home-4.jpg",
+          "mobile_img": "/img/uploads/slide-home-mob-4.jpg"
         }
       ]
     },
