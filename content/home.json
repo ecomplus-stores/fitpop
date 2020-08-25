@@ -128,6 +128,10 @@
     {
       "type": "custom-html",
       "html": "<a href=\"javascript:window.Metomic('ConsentManager:show')\">Alterar Preferências de Cookies</a>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"ml-form-embed\"\n  data-account=\"2329811:r6c3q5e6h4\"\n  data-form=\"2560727:w5s9z6\">\n</div>"
     }
   ]
 }
