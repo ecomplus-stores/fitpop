@@ -4,35 +4,14 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "link": "https://www.fitpop.com.br/pages/entrega",
-        "title": "Frete"
-      },
-      {
-        "title": "Atendimento",
-        "link": "https://www.fitpop.com.br/pages/contato"
-      },
-      {
-        "title": "Compras",
-        "link": "https://www.fitpop.com.br/app/#/cart"
-      },
-      {
-        "title": "Cheque 30, 60 E 90",
-        "link": "https://www.fitpop.com.br/pages/pagamentos"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
-    "featured": [
-      "/conjuntos?CONJUNTOS",
-      "/leggings?LEGGINGS",
-      "/top?TOP"
-    ],
+    "featured": [],
     "random": 0,
     "full_width": false
   },
-  "search_input": true
+  "search_input": false
 }
