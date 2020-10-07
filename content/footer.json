@@ -4,7 +4,7 @@
     "text": "Nós somos uma empresa com sede em Brusque-SC e já atuamos a mais de 12 anos no mercado de roupa fitness Feminina. Vendas apenas com CNPJ!"
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
     "list": [
       {
@@ -14,7 +14,7 @@
     ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Trabalhamos com",
     "list": [
       {
@@ -27,45 +27,31 @@
   },
   "contacts": {
     "title": "Contato",
-    "phone_wpp": true,
-    "socials": true,
-    "email": true,
+    "phone_wpp": false,
+    "socials": false,
+    "email": false,
     "address": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/google-report.png",
-      "alt": "Conexão HTTPS segura",
-      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.fitpop.com.br"
-    },
-    {
-      "src": "/img/uploads/logo-catarina.jpg",
-      "link": "https://catarinashopping.com.br/loja/133"
-    },
-    {
-      "src": "/img/uploads/sipag-menor.png",
-      "link": "https://www.sipag.com.br/"
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": false,
-    "visa": true,
-    "boleto": true,
-    "aura": true,
+    "visa": false,
+    "boleto": false,
+    "aura": false,
     "banrisul": false,
-    "elo": true,
+    "elo": false,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
-    "mastercard": true,
-    "paypal": true,
+    "mastercard": false,
+    "paypal": false,
     "citibank": false,
-    "hiper": true,
-    "diners": true,
+    "hiper": false,
+    "diners": false,
     "mais": false,
-    "amex": true,
-    "itau": true
+    "amex": false,
+    "itau": false
   },
   "credits": ""
 }
