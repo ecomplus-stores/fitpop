@@ -2,21 +2,5 @@
   "title": "Blog",
   "meta_title": "Blog",
   "meta_description": "Blog",
-  "sections": [
-    {
-      "type": "page-title"
-    },
-    {
-      "type": "blog",
-      "enabled": true
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true
-    }
-  ]
+  "sections": []
 }
