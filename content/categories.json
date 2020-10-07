@@ -1,27 +1,3 @@
 {
-  "sections": [
-    {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "page-title"
-    },
-    {
-      "type": "document-banner",
-      "enabled": true
-    },
-    {
-      "type": "category-retail",
-      "enabled": true
-    },
-    {
-      "type": "document-description",
-      "enabled": true
-    },
-    {
-      "type": "custom-content",
-      "markdown": "[Faça login em sua conta](https://www.fitpop.com.br/app/#/account/) ou [cadastre-se agora](https://www.fitpop.com.br/app/#/account/)!"
-    }
-  ]
+  "sections": []
 }
