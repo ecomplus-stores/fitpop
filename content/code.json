@@ -1,5 +1,5 @@
 {
-  "css": ".banner {\n    width: 100% !important;\n}\n.grid-banner {\n    width: 100% !important;\n}\n@media (max-width: 767px) {\n\n  .header__toggler:after {\n    content: 'MENU'\n  }\n  .header__logo {\n    width: 100%;\n  }\n}",
+  "css": "",
   "html_head": "\n<script src=\"https://config.metomic.io/config.js?id=prj:f4b12cc1-bb70-421a-b0eb-5cfa3f97c842\" crossorigin charset=\"utf-8\"></script>\n<script src=\"https://consent-manager.metomic.io/embed.js\" crossorigin charset=\"utf-8\"></script>\n\n<!-- MailerLite Universal -->\n<script>\n(function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){\nvar c={ a:arguments,q:[]};var r=this.push(c);return \"number\"!=typeof r?r:f.bind(c.q);}\nf.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);\nvar _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));\n_.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');\n\nvar ml_account = ml('accounts', '2329811', 'r6c3q5e6h4', 'load');\n</script>\n<!-- End MailerLite Universal -->\n",
   "html_body": ""
 }
