@@ -1,9 +1,5 @@
 {
-  "sort_categories": [
-    "conjuntos",
-    "leggings",
-    "top"
-  ],
-  "phone_wpp": true,
-  "socials": true
+  "sort_categories": [],
+  "phone_wpp": false,
+  "socials": false
 }
